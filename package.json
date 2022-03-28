@@ -1,0 +1,22 @@
+{
+  "name": "blogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhargaviChanaboina/blogger.git"
+  },
+  "author": "Bhargavi Chanaboina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhargaviChanaboina/blogger/issues"
+  },
+  "homepage": "https://github.com/BhargaviChanaboina/blogger#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
